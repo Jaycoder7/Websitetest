@@ -55,7 +55,7 @@ const NewTeam = ({ database }) => {
 						type="number"
 						value={number == 0 ? "" : number}
 						onChange={handleNumberChange}
-						placeholder="3161"
+						placeholder="8866"
 					/>
 				</div>
 				<div
@@ -69,7 +69,7 @@ const NewTeam = ({ database }) => {
 						type="text"
 						value={name}
 						onChange={handleNameChange}
-						placeholder="Tronic Titans"
+						placeholder="Innovation Robotics"
 					/>
 				</div>
 				<input type="submit" value="Create" />
