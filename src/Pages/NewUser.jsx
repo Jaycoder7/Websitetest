@@ -53,7 +53,7 @@ const NewTeam = ({ database }) => {
 						type="text"
 						value={username}
 						onChange={handleUsernameChange}
-						placeholder="regular_pooria"
+						placeholder="Jay07"
 						pattern="^[A-Za-z][A-Za-z0-9_]{1,29}"
 					/>
 				</div>
@@ -70,7 +70,7 @@ const NewTeam = ({ database }) => {
 						type="text"
 						value={name}
 						onChange={handleNameChange}
-						placeholder="Pooria ahmadi"
+						placeholder="Jyotil Agrawal"
 					/>
 				</div>
 				<input type="submit" value="Create" />
