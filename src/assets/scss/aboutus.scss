@@ -14,7 +14,7 @@
             font-size: 20px;
         }
         a {
-            color: #fff200;
+            color: #007AFF;
         }
     }
     .developers {
@@ -54,8 +54,8 @@
                         width: 100%;
                         text-align: center;
                         padding: 5px;
-                        background-color: #fff200;
-                        color: black;
+                        background-color: #007AFF;
+                        color: white;
                         border-radius: 5px;
                         font-size: 20px;
                     }
@@ -75,12 +75,12 @@
                         text-align: center;
                         box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
                         text-decoration: none;
-                        color: #fff200;
+                        color: #007AFF;
                         transition: 0.5s;
                         border-radius: 5px;
                         &:hover {
-                            color: black;
-                            background-color: #fff200;
+                            color: white;
+                            background-color: #007AFF;
                         }
                     }
                 }
