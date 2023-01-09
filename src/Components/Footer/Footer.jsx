@@ -18,7 +18,7 @@ const Footer = () => {
 			<div className="bottom">
 				<p>
 					Copyright 2022 Made by
-					<a href="https://github.com/pooriaahmadi/manto">
+					<a href="https://iarobotics8866.wixsite.com/my-site">
 						Team 3161 Modified by 8866
 					</a>
 				</p>
