@@ -17,9 +17,9 @@ const Footer = () => {
 			</div>
 			<div className="bottom">
 				<p>
-					Copyright 2022 Manto 1.1.13, Made with lots of ☕ and ❤️ by
+					Copyright 2022 Made by
 					<a href="https://github.com/pooriaahmadi/manto">
-						Team 3161
+						Team 3161 Modified by 8866
 					</a>
 				</p>
 			</div>
