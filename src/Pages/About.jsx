@@ -40,7 +40,7 @@ const About = () => {
 						<p className="role gold">Gold sponsor</p>
 						<div className="links">
 							<a href="https://github.com/frc3161/">GitHub</a>
-							<a href="https://team3161.ca/">Website</a>
+							<a href="https://iarobotics8866.wixsite.com/my-site">Website</a>
 						</div>
 					</div>
 				</div>
