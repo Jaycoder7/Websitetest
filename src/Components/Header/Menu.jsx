@@ -24,7 +24,7 @@ const Menu = ({ active, toggleActive, queue }) => {
 					</div>
 				</Link>
 				<HeaderItem url="/admin" title="Admin" />
-				<HeaderItem url="/aboutus" title="About us"></HeaderItem>
+				
 			</div>
 			<div className="menu-footer">
 				<div className="left">
