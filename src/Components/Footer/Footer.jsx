@@ -12,7 +12,7 @@ const Footer = () => {
 					<img src={team8866} alt="" />
 				</div>
 				<div className="right">
-					<Link to="/aboutus">About us</Link>
+					
 				</div>
 			</div>
 			<div className="bottom">
