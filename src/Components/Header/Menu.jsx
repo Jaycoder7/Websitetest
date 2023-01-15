@@ -33,7 +33,7 @@ const Menu = ({ active, toggleActive, queue }) => {
 					<img src={cuteTeam3161} alt="" />
 				</div>
 				<div className="right" onClick={toggleActive}>
-					<Link to="/aboutus">About us</Link>
+					
 				</div>
 			</div>
 		</div>
